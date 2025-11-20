@@ -2,11 +2,8 @@
 An intelligent text summarization tool that automatically extracts, processes, and condenses web content into concise, readable summaries using advanced AI technology.
 
 This project creates an automated pipeline that:
-1.Scrapes any website URL using Beautiful Soup
-2.Extracts clean, relevant text content from HTML
-3.Processes the content through OpenAI's GPT models
-4.Generates intelligent, context-aware summaries
-5.Outputs formatted results in Markdown for easy reading
+Scrapes any website URL using Beautiful Soup,Extracts clean, relevant text content from HTML,Processes the content through OpenAI's GPT models,Generates intelligent, context-aware summaries
+and Outputs formatted results in Markdown for easy reading.
 
 🛠️ Tech Stack        
 PythonCore,        
