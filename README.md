@@ -8,13 +8,12 @@ This project creates an automated pipeline that:
 4.Generates intelligent, context-aware summaries
 5.Outputs formatted results in Markdown for easy reading
 
-🛠️ Tech Stack
-Technology              Purpose
-PythonCore          programming language
-Beautiful Soup      Web scraping and HTML parsing
-OpenAI API          AI-powered text summarization
-Requests            HTTP requests for fetching web pages
-Markdown            Output formatting for summaries
+🛠️ Tech Stack        
+PythonCore,        
+Beautiful Soup,    
+OpenAI API,          
+Requests,          
+Markdown .          
 
  Key Features
 1. Smart Web Scraping
